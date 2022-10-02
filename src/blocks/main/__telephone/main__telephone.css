@@ -1,0 +1,20 @@
+.main__telephone {
+    margin-top: 25px;
+    height: 40px;
+    font-family: Mulish, Roboto, Arial,sans-serif;
+    font-weight: normal;
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    align-items: flex-end;
+}
+
+.main__telephone:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.main__telephone:hover .main__telephone-image {
+    transform: rotate(-45deg);
+}

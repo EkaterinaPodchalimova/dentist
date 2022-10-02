@@ -1,0 +1,15 @@
+.header__navigation {
+    width: fit-content;
+    margin: 0;
+    color: white;
+    text-decoration: none;
+    transition: opacity 0.5s ease-in-out;
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 24px;
+}
+
+.header__navigation:hover {
+    opacity: 0.8;
+    scale: 1.02;
+    cursor: pointer;
+}

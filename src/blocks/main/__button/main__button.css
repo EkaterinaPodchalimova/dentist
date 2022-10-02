@@ -1,0 +1,22 @@
+.main__button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    width: 300px;
+    height: 70px;
+    font-family: Mulish, Roboto, Arial,sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    color: black;
+    background-color: #FFDD66;
+    border-radius: 5px;
+    text-align: center;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.main__button:hover {
+    cursor: pointer;
+    opacity: 0.8;
+    scale:1.02
+}

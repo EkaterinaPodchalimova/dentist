@@ -1,0 +1,13 @@
+.main__title {
+    margin: 0;
+    width: 700px;
+    letter-spacing: 2px;
+    height: fit-content;
+    font-family: Mulish, Mulish, Roboto, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 70px;
+    line-height: 1.5;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+}

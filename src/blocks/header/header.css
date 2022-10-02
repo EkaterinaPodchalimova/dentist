@@ -1,0 +1,10 @@
+.header {
+    width: calc(100% - 100px);
+    height: fit-content;
+    padding: 30px 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1580EB;
+}

@@ -1,0 +1,7 @@
+.header__menu {
+    display: grid;
+    width: fit-content;
+    grid-template-columns: repeat(5,auto);
+    gap: 30px;
+    align-items: center;
+}
