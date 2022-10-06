@@ -1,0 +1,11 @@
+.right-column__subtitle {
+    margin-top: 0;
+    margin-bottom: 20px;
+    width: 100%;
+    text-align: left;
+    font-family: Mulish, Mulish, Roboto, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #404040;
+}

@@ -1,0 +1,10 @@
+.right-column__title {
+    margin-top: 0;
+    margin-bottom: 20px;
+    width: 100%;
+    font-family: Mulish, Mulish, Roboto, Arial, sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 1.2;
+    color: black;
+}

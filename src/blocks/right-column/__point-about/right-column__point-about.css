@@ -1,0 +1,11 @@
+.right-column__point-about {
+    grid-area: about;
+    margin-top: 0;
+    margin-bottom: 20px;
+    width: 80%;
+    text-align: left;
+    font-family: Mulish, Mulish, Roboto, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    color: #404040;
+}

@@ -1,0 +1,17 @@
+.right-column__point {
+    width: 100%;
+    height: fit-content;
+    display: grid;
+    grid-template-areas:
+            'photo name'
+            'photo about';
+    grid-template-columns: 70px 1fr;
+    grid-template-rows: repeat(2,35px);
+    margin-bottom: 20px;
+    align-items: center;
+    gap: 15px;
+}
+
+.right__point:hover {
+    scale: 1.03;
+}

@@ -1,0 +1,10 @@
+.right-column__point-image {
+    grid-area: photo;
+    width: 70px;
+    object-fit: contain;
+    object-position: center;
+}
+
+.right-column__point-image:hover {
+    scale: 1.02;
+}

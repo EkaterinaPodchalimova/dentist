@@ -1,0 +1,14 @@
+.prise__point {
+    width: 100%;
+    border: 2px solid #1580EB;
+    border-radius: 8px;
+    display: grid;
+    grid-template-columns: 90% 10%;
+    grid-template-rows: max-content;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.prise__point:hover {
+    scale: 1.02;
+}

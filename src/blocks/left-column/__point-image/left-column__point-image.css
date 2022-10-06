@@ -1,0 +1,6 @@
+.left-column__point-image {
+    grid-area: photo;
+    border-radius: 50%;
+    width: 100px;
+    padding: 10px;
+}

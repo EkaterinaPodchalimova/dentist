@@ -1,0 +1,7 @@
+.about {
+    width: calc(100% - 200px);
+    padding: 50px 100px;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+}

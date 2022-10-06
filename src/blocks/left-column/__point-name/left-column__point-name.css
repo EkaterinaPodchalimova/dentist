@@ -1,0 +1,10 @@
+.left-column__point-name {
+    grid-area: name;
+    margin: 0;
+    height: fit-content;
+    width: 100%;
+    color: #1580EB;
+    font-family: Mulish, Mulish, Roboto, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 35px;
+}

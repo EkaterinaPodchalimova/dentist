@@ -1,0 +1,7 @@
+.right-column {
+    width: calc(50% - 2* 40px);
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

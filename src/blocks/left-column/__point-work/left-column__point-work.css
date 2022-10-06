@@ -1,0 +1,9 @@
+.left-column__point-work {
+    grid-area: work;
+    margin: 0;
+    font-family: Mulish, Mulish, Roboto, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 1.5;
+    color: #282c34;
+}

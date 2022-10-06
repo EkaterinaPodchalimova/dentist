@@ -1,0 +1,13 @@
+.left-column__title {
+    margin-top: 0;
+    margin-bottom: 20px;
+    width: 80%;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Mulish, Mulish, Roboto, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 1.5;
+    background-color: #1580EB;
+    color: white;
+}

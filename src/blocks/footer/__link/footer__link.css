@@ -1,0 +1,13 @@
+.footer__link {
+    margin-top: 20px;
+    background-image: url(../../../images/gosuslugi.png);
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    align-self: center;
+}
+
+.footer__link:hover {
+    opacity: 0.8;
+    scale: 1.05;
+}
