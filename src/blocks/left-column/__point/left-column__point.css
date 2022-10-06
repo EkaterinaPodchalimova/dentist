@@ -9,7 +9,7 @@
             'photo name'
             'photo work';
     grid-template-columns: 120px 1fr;
-    grid-template-rows: repeat(2,max-content);
+    grid-template-rows: repeat(2,auto);
     margin-bottom: 15px;
     align-items: center;
     gap: 15px

@@ -1,0 +1,19 @@
+.header__menu_active {
+    display: grid;
+}
+
+@media  screen and (max-width: 1080px) {
+    .header__menu_active {
+        right: 5px;
+        top: 85px;
+        width: fit-content;
+        position: absolute;
+        grid-template-rows: repeat(5, auto);
+        background-color: #1580EB;
+        border: #404040 1px solid;
+        border-radius: 10px;
+        color: black;
+        z-index: 3;
+        padding: 10px;
+    }
+}

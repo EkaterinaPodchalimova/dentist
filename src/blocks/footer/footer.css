@@ -2,7 +2,7 @@
     background-color: #1580EB;
     width: calc(100% - 100px);
     padding: 50px;
-    display: flex;
-    flex-direction: row;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr) 300px;
     justify-content: space-between;
 }

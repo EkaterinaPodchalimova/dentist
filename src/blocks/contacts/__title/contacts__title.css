@@ -1,0 +1,11 @@
+.contacts__title {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-family: Mulish, Mulish, Roboto, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 1.3;
+    text-decoration: none;
+    color: #1580EB;
+    text-align: center;
+}

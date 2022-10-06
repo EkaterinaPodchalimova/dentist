@@ -6,7 +6,7 @@
             'photo name'
             'photo about';
     grid-template-columns: 70px 1fr;
-    grid-template-rows: repeat(2,35px);
+    grid-template-rows: repeat(2,max-content);
     margin-bottom: 20px;
     align-items: center;
     gap: 15px;

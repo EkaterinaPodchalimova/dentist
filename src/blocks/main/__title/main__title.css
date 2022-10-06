@@ -10,4 +10,13 @@
     color: white;
     display: flex;
     flex-wrap: wrap;
+    z-index: 2;
+}
+
+@media  screen and (max-width: 900px) {
+    .main__title {
+        width: 100%;
+        justify-content: center;
+        font-size: 30px;
+    }
 }

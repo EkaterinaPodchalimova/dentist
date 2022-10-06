@@ -8,6 +8,7 @@
     text-decoration: none;
     display: flex;
     align-items: flex-end;
+    z-index: 2;
 }
 
 .main__telephone:hover {

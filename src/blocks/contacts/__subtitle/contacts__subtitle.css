@@ -1,0 +1,18 @@
+.contacts__subtitle {
+    text-decoration: none;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-family: Mulish, Mulish, Roboto, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 1.3;
+    color: #404040;
+    transition: opacity 1s ease-in-out;
+    text-align: center;
+}
+
+.contacts__subtitle:hover {
+    cursor: pointer;
+    scale: 1.01;
+    opacity: 0.8;
+}

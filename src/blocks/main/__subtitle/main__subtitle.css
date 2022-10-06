@@ -7,4 +7,20 @@
     font-size: 45px;
     color: white;
     letter-spacing: 2px;
+    z-index: 2;
+}
+
+@media  screen and (max-width: 1300px) {
+    .main__subtitle {
+        width: 80%;
+    }
+}
+
+@media  screen and (max-width: 900px) {
+    .main__subtitle {
+        width: calc(100% - 20px);
+        padding: 10px;
+        text-align: center;
+        font-size: 30px;
+    }
 }

@@ -5,3 +5,11 @@
     gap: 30px;
     align-items: center;
 }
+
+@media screen and (max-width: 1080px) {
+    .header__menu {
+        display: none;
+        grid-template-rows: repeat(5, auto);
+        grid-template-columns: 1fr;
+    }
+}

@@ -1,6 +1,8 @@
 .header {
+    position: relative;
     width: calc(100% - 100px);
-    height: fit-content;
+    min-height: 50px;
+    height: 100%;
     padding: 30px 50px;
     display: flex;
     flex-direction: row;
