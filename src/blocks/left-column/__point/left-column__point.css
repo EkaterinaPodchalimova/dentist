@@ -18,3 +18,9 @@
 .left-column__point:hover {
     scale: 1.03;
 }
+
+@media screen and (max-width: 1280px) {
+    .left-column__point {
+        width: 100%;
+    }
+}

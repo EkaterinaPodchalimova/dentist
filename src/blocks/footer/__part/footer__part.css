@@ -5,3 +5,11 @@
     align-items: flex-start;
     color: white;
 }
+
+@media screen and (max-width: 1000px) {
+    .footer__part {
+        width: 100%;
+        align-items: center;
+    }
+}
+

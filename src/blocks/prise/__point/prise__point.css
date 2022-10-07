@@ -3,7 +3,7 @@
     border: 2px solid #1580EB;
     border-radius: 8px;
     display: grid;
-    grid-template-columns: 90% 10%;
+    grid-template-columns: 1fr minmax(80px,auto);
     grid-template-rows: max-content;
     gap: 10px;
     margin-bottom: 15px;

@@ -5,3 +5,16 @@
     flex-direction: column;
     align-items: center;
 }
+
+@media screen and (max-width: 1280px) {
+    .right-column {
+        width: 50%;
+        padding: 30px 20px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .right-column{
+        width: calc(100% - 20px)
+    }
+}
